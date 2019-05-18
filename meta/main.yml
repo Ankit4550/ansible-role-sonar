@@ -1,6 +1,5 @@
 ---
 dependencies:
-  - geerlingguy.java
   - geerlingguy.mysql
 
 galaxy_info:
